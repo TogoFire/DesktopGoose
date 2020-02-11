@@ -1,0 +1,53 @@
+Holy shoot, you actually opened the readme. Good for you!
+
+Greetings, and welcome to v0.31 of DESKTOP GOOSE!
+
+~~~~~ NEW IN VERSION 0.31 ~~~~~
+ - AUTUMN UPDATE: An official autumn mod for letting him play in leaves!
+    - See autumn.txt for info about how to start it!
+
+~~~~~ NEW IN VERSION 0.3 ~~~~~
+ - MODDING! Drop mods into their own folders in Assets/Mods/YourModNameHere, and toggle "EnableMods" in the config.ini! Build your own mods with the solution in the "FOR MODDERS" folder! Join the discord https://discord.gg/2d6WcNg and check the #goose-mods channel for more info and help on this :D
+ - CUSTOM NOT-EPAD TEXT! Add whatever notepad phrases you want as text files in the "Assets/Text/NotepadMessages" folder, and the goose will pull them up!
+ - NEW CONFIG TOGGLES! Customize the goose's behaviour further, silence the audio, and more!
+
+
+-- HOW TO USE --
+ - Hold ESC to exit (you'll need to hold it for a couple seconds!)
+
+ - Open 'config.ini' in Notepad to tweak goose settings.
+ - Drop your own memes in "Assets/Images/Memes"
+ - Create your own goose text files in "Assets/Text/NotepadMessages"
+ - Drop mods into their own folders in "Assets/Mods/(Mod name goes here)"
+
+
+Please message me your goose antics on Twitter @samnchiet, or any other means. I'd love to see it.
+
+-- Support my work! --
+twitter.com/samnchiet
+patreon.com/sammakesvr
+...just search "Sam Chiet" on YouTube.
+
+
+Special thanks to all my patrons, who made this possible. You're heroes.
+And huge shouts to the friendly people in my Discord/Twitter who helped test this and provided feedback!
+And to the MOD COMMUNITY in the discord!
+
+
+
+
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-Some legal stuff-
+Honks sampled from Untitled Goose Game (go play it!)
+
+SOFTWARE PROVIDED AS IS, WITHOUT WARRANTY you've seen all this before
+in summary, I AM NOT LIABLE IF YOU DO SOMETHING LIKE USE THE GOOSE TO TRY AND FILE YOUR TAXES, OR IF THE GOOSE DAMAGES YOU SOMEHOW
+
+THAT IS FULLY ON YOU.
+
+Also, don't redistribute this software on your own! Link back to the itch page (on samperson.itch.io), or better yet, the YouTube video at https://www.youtube.com/watch?v=EQx6fyrZDWM)
+If you got this from a source 

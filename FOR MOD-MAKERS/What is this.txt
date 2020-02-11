@@ -1,0 +1,16 @@
+If you're not a mod-maker... no need to mess with this.
+
+This is a default Visual Studio solution setup for mod-making (v0.3)!
+
+It has 2 projects: One is the API, which you should not edit, but can look into. And you can link to it from other solutions.
+(Documentation in-progress.)
+
+The other project is a basic default mod that basically shows how to Do The Thing. Poke around!
+
+How to install mods:
+Drop the resulting DLL (not the API) from builds into Assets/Mods/YourModFolderName/YourMod.dll
+and then EnableMods in the config/
+
+That's it!
+
+Post in the discord if you have any questions!

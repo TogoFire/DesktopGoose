@@ -1,0 +1,5 @@
+C:\Users\Start Minecraft\Documents\Visual Studio 2015\Projects\GooseDesktop\_API Solution\GooseModdingAPI\GooseModdingAPI\bin\Release\GooseModdingAPI.dll
+C:\Users\Start Minecraft\Documents\Visual Studio 2015\Projects\GooseDesktop\_API Solution\GooseModdingAPI\GooseModdingAPI\bin\Release\GooseModdingAPI.pdb
+C:\Users\Start Minecraft\Documents\Visual Studio 2015\Projects\GooseDesktop\_API Solution\GooseModdingAPI\GooseModdingAPI\obj\Release\GooseModdingAPI.csprojResolveAssemblyReference.cache
+C:\Users\Start Minecraft\Documents\Visual Studio 2015\Projects\GooseDesktop\_API Solution\GooseModdingAPI\GooseModdingAPI\obj\Release\GooseModdingAPI.dll
+C:\Users\Start Minecraft\Documents\Visual Studio 2015\Projects\GooseDesktop\_API Solution\GooseModdingAPI\GooseModdingAPI\obj\Release\GooseModdingAPI.pdb

@@ -1,0 +1,20 @@
+Hey there!
+You want to enable the official autumn season stuff in Desktop Goose?
+
+
+- 'Mods' extend what desktop goose can do. They're contained in the /Assets/Mods folder.
+-  My official autumn mod, which adds leaf piles, is already in the /Assets/Mods folder! So it will appear automatically in Desktop Goose after mods are enabled.
+
+To enable mods:
+  1. Open the "config.ini" file in Notepad
+  2. Change "EnableMods=False" to "EnableMods=True"
+  3. Restart Desktop goose
+
+Again, once you do this, as long as the autumn stuff is you your /Assets/Mods/ folder, you'll be able to play in leaf piles!
+
+
+I'm sure someone'll make a TikTok about it, or something haha.
+If you do make a video about the autumn mod, let me know! I'm @SamNChiet on Twitter.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+(also, there's a warning about mods that pops up when they're enabled - my autumn mod that comes with the goose is safe!)

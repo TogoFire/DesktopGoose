@@ -1,0 +1,33 @@
+~~~~~ NEW IN VERSION 0.3 ~~~~~
+ - CUSTOM NOT-EPAD TEXT ! Add whatever notepad phrases you want as text files in the "Assets/Text/NotepadMessages" folder, and the goose will pull them up!
+ - NEW MODDING API! Drop mods into their own folders in Assets/Mods/YourModNameHere, and toggle "EnableMods" in the config.ini! Build your own mods with the solution in the "FOR MODDERS" folder! Join the discord https://discord.gg/2d6WcNg and check the #goose-mods channel for more info and help on this :D
+ - NEW CONFIG TOGGLES! Customize the goose's behaviour further, silence the audio, and more!
+
+Bugfixes:
+ - Goose auto-releases mouse when it quits while stealing your cursor. No more having to alt-tab!
+ - Lifted multi-hundred meme 'soft-cap'. Now you crazy monsters can load even more memes at once. Crazy kids.
+
+COMING SOON in v0.4+...
+ - Twitch Chat/Donations Integration (let the chat control the goose! donation messages!) when you own the soon-to-release "Desktop Goose for Twitch", or whatever it'll be called, program.
+ - Modding API updates!
+ - Native multi-goose support!
+
+~~~~~ 0.21 Hotfix ~~~~~
+ - Fixed the infamous "Red X" crash!
+
+~~~~~ NEW IN VERSION 0.2 ~~~~~
+ - UNLIMITED MEMES! Add whatever images you want to the memes folder, and the goose will pull them up!
+ - GIF SUPPORT! Add GIFs to the meme folder and Goose will bring you your infinite video
+ - HACK THE GOOSE! Adjust his aggression and a few other parameters, by opening config.goos in Notepad! More customization to come...
+
+Bugfixes:
+ - Temp fix: No more crashing, on an edge-case donation image load failure, if you move the files around for some reason? (In general, don't move and delete files while the program's running- a file lock safeguard is coming soon so you don't have to worry about it :) )
+
+COMING SOON in v0.3+...:
+ - Customize the goose note messages!
+ - Play a custom jukebox playlist!
+ - Better mod support? Join the discord at https://discord.gg/2d6WcNg and check the #goose-mods channel to see how this develops.
+
+
+~~~~~ VERSION 0.1 ~~~~~
+This is just the base! We're only getting started
