@@ -1,0 +1,2 @@
+Press P to trap him.
+Press O to set the area to trap him.

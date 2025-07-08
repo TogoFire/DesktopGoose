@@ -1,0 +1,14 @@
+About:
+This mod allows you to feed the goose. This can be used to make him walk across your screen, or to calm him down when he is in a frenzy. Plus he makes cute nom sound.
+
+Usage:
+The default button is 'RightShiftButton', however this can be changed in the Config.txt using the codes from:'https://docs.microsoft.com/en-us/dotnet/api/system.windows.forms.keys?view=netframework-4.8'
+
+Changing Crumbs:
+You can change the image used for the crumbs by renaming a different .png to "crumbs.png" and putting it inside the BreadCrumbs folder. Avoid half-transparent pixels as this will     cause an orange line to form around your image.
+
+Thankyou for downloading my mod and i hope you enjoy it!
+@Straaft#2916.
+
+
+

@@ -1,0 +1,3 @@
+#GooseName=Bubbles
+GooseName=
+RGBHexcode=#21ffc0
